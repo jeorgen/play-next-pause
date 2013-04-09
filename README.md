@@ -7,7 +7,7 @@ play-next-pause
 
 play-next-pause is a very simple remote control application that can stop, pause, resume, play and skip on a UPnP/DLNA-compliant media player, at least if the Media Player is Rhythmbox with the UPnP/DLNA plugin enabled. The source code is currently around 55 lines of code. It is very much in alpha status and has been developed just to the "works for me" point.
 
-[screenshot](https://raw.github.com/jeorgen/play-next-pause/master/docsfiles/Sc_ubuntu.png)
+![screenshot](https://raw.github.com/jeorgen/play-next-pause/master/docsfiles/Sc_ubuntu.png)
 
 play-next-pause on Ubuntu 9.10
 
@@ -16,7 +16,7 @@ No other player than Rhythmbox tested at this moment. play-next-pause should be 
 
 The personal goal with play-next-pause from the author's side is for it to be a way of controlling a central media player from any computer or operating system I happen to be on at the moment on the subnet. Currently this is instead solved by using the Music Player Daemon (mpd) as as server and Ario clients on the various Linux and Win32 machines.
 
-[screenshot](https://raw.github.com/jeorgen/play-next-pause/master/docsfiles/Sc_win.png)
+![screenshot](https://raw.github.com/jeorgen/play-next-pause/master/docsfiles/Sc_win.png)
 
 play-next-pause on Windows XP Home
 
